@@ -17,7 +17,7 @@
 
 // Changes Made: Balls made into squares, background added, text box rounded, clicking now also changes colors
 
-//Link to web: 
+//Link to web: https://stt006.github.io/bounching-ball/
 const BOX_WIDTH  = 175;  // textbox dimensions
 const BOX_HEIGHT = 75;
 
